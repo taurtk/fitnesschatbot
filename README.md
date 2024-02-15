@@ -16,7 +16,7 @@ To get FitBot up and running, follow these steps:
 
    ```bash
    git clone https://github.com/[YourUsername]/fitnesschatbot.git
-   cd FitBot
+   cd fitnesschatbot
 
 2. **Setup Virtual Environment (Optional)**
 
