@@ -1,4 +1,4 @@
-# FitBot: An Advanced Health-Centric Chatbot
+# FitnessChatbot: An Advanced Health-Centric Chatbot
 
 FitBot is an AI-driven chatbot that uses large language models (LLMs) such as GPT-4 by OpenAI. It seamlessly integrates with the Nutrition endpoint from API Ninjas, providing accurate nutritional data and personalized health recommendations.
 
@@ -15,7 +15,7 @@ To get FitBot up and running, follow these steps:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/[YourUsername]/FitBot.git
+   git clone https://github.com/[YourUsername]/FitnessChatbot.git
    cd FitBot
 
 2. **Setup Virtual Environment (Optional)**
