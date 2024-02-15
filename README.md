@@ -1,6 +1,6 @@
 # FitnessChatbot: An Advanced Health-Centric Chatbot
 
-FitBot is an AI-driven chatbot that uses large language models (LLMs) such as GPT-4 by OpenAI. It seamlessly integrates with the Nutrition endpoint from API Ninjas, providing accurate nutritional data and personalized health recommendations.
+FitnessChatbot is an AI-driven chatbot that uses large language models (LLMs) such as GPT-4 by OpenAI. It seamlessly integrates with the Nutrition endpoint from API Ninjas, providing accurate nutritional data and personalized health recommendations.
 
 ## Features
 1. **Nutritional Information Retrieval:** Fetches accurate nutritional data of any given food item by leveraging the Nutrition endpoint of API Ninjas.
@@ -48,7 +48,7 @@ Once the chatbot is up and running, you can start asking queries. Here's an exam
    What is the TDEE of a 30-year-old man, who is 180 cm tall, weighs 80 kg, and exercises 3 times a week?
    ```
 
-FitBot will generate a meal plan based on the information provided and also inform the person's BMI.
+FitnessChatbot will generate a meal plan based on the information provided and also inform the person's BMI.
 
 ## Support
 
@@ -56,4 +56,4 @@ If you encounter any issues or have any questions about the project, feel free t
 
 ## License
 
-FitBot is open-source software licensed under the MIT license.
+FitnessChatbot is open-source software licensed under the MIT license.
